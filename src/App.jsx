@@ -25,6 +25,8 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
+      <p>This is a Vite + React template</p>
+      <p > Demo for the Capestone project</p>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
